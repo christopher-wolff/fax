@@ -1,0 +1,11 @@
+.DS_Store
+
+notes.txt
+
+notebooks/
+
+.vscode/
+
+*.egg-info/
+
+__pycache__/
