@@ -2,10 +2,17 @@
 
 notes.txt
 
-notebooks/
-
 .vscode/
 
 *.egg-info/
 
 __pycache__/
+
+build/
+
+.ipynb_checkpoints/
+
+data/tiny_shakespeare/input.txt
+data/tiny_shakespeare/meta.pkl
+data/tiny_shakespeare/train.bin
+data/tiny_shakespeare/val.bin
