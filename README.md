@@ -1,4 +1,4 @@
-# Fax: A functional neural network library based on JAX
+# Fax: A functional neural network library built on JAX
 
 ## Installing
 
